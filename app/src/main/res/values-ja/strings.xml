@@ -44,6 +44,7 @@
     <string name="assistant_shortcut">アシスタントの起動</string>
     <string name="torch_shortcut">懐中電灯</string>
     <string name="tv_remote_shortcut">TVの操作</string>
+    <string name="dnd_shortcut">Do Not Disturb</string>
     <string name="album_art_category">メディアのオプション</string>
     <string name="album_art_title">メディアの再生時にアルバムアートの表示をする</string>
     <string name="album_art_blur_text">ぼかしの値</string>
@@ -282,6 +283,10 @@
     <string name="netstat_enable_title">Collect network statistics</string>
     <string name="network_interval_custom_text_title">更新間隔</string>
     <string name="minutes_word">分</string>
+    <!-- Incompatibility Alert -->
+    <string name="incompatible_alert_title">Incompatible</string>
+    <string name="incompatible_alert_body">Your current ROM is not the direct target of this module. You may continue to use it, but some (or all) options might not work as intended\n\nPlease do not report bugs</string>
+    <string name="incompatible_alert_ok_btn">I understand</string>
     <!-- Menu Items -->
     <string name="menu_settings_title">インポート/エクスポート</string>
     <string name="menu_reset_defaults">すべての設定をリセット</string>
